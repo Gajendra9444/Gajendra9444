@@ -1,7 +1,7 @@
 ![MasterHead](https://raw.githubusercontent.com/muhammadnurulahsan/muhammadnurulahsan/main/ahsan.gif)
 
 <h1 align="center">Hi 👋, I'm Gajendra Kunwar</h1>
-<h3 align="center">A passionate python with Data Scientist and frontend developer from Nepal</h3>
+<h3 align="center">A passionate Python with Data Scientist and Full Stack developer from Nepal</h3>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif">
 
